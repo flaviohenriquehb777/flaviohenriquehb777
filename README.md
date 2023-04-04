@@ -25,7 +25,7 @@ Data Scientist focused on the incessant search for accurate results.
 # Always learning!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/109081925/229827695-29d9aa19-b756-428c-b323-7cc90a6374a4.png" width="750px" />
+<img src="https://user-images.githubusercontent.com/109081925/229829972-22c507b5-7845-4b5f-a3af-26c19c86d7e0.png" width="750px" />
 </div>
 
 <img align="leftr" width="48%" src="https://github-readme-stats-peguimasid.vercel.app/api?username=flaviohenriquehb777&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats"/> <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviohenriquehb777&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
