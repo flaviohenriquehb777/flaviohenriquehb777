@@ -22,6 +22,11 @@ Data Scientist focused on the incessant search for accurate results.
 ### Others: 
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 
+### Pode aproveitar para conferir alguns conteúdos que eu criei:
+
+- <a href="https://github.com/flaviohenriquehb777/HousePrices">
+    Projeto Kaggle: Prevendo o preço de casas (House Prices)
+  </a>
 # Always learning!
 
 <div align="center">
