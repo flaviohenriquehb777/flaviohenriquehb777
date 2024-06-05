@@ -10,11 +10,8 @@ Data Scientist focused on the incessant search for accurate results.
 
 ## My specialties:
 
-### Languages: 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/-SQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-
-### Database: 
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> 
+### Currently more focused on: 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 ### Cloud: 
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
@@ -27,6 +24,19 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
     Projeto Kaggle: Prevendo o preço de casas (House Prices)
   </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
+    Projeto 4: Modelo de Idendificação de Fraudes
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
+    Projeto 3: Modelo Financeiro com apresentação em PPT
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
+    Projeto 2: Modelo de Análise de Dados e Finanças
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
+    Projeto 1: Analisando o engajamento no Instagram
+  </a>
+  
 # Always learning!
 
 <div align="center">
