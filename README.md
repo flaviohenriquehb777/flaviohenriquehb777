@@ -1,6 +1,8 @@
 
 <h1 align="center"> Hi, I'm Flávio Henrique (Data Scientist)! </h1>
 
+### You can also find me at:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)](https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)
 
 ## About me:
@@ -18,7 +20,7 @@ Data Scientist focused on the incessant search for accurate results.
 ### Others: 
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 
-### Pode aproveitar para conferir alguns conteúdos que eu criei:
+### You can take the opportunity to check out some content I created:
 
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
     Projeto Kaggle: Prevendo o preço de casas (House Prices)
