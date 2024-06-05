@@ -1,10 +1,6 @@
 
 <h1 align="center"> Hi, I'm Flávio Henrique (Data Scientist)! </h1>
 
-### You can also find me at:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)](https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)
-
 ## About me:
 
 Data Scientist focused on the incessant search for accurate results.
@@ -37,6 +33,12 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
     Projeto 1: Analisando o engajamento no Instagram
   </a>
+
+##
+
+### You can also find me at:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)](https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)
   
 # Always learning!
 
