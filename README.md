@@ -19,7 +19,7 @@ Data Scientist focused on the incessant search for accurate results.
 ### You can take the opportunity to check out some content I created:
 
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
-    Projeto Kaggle: Prevendo o preço de casas (House Prices)
+    Competição Kaggle: Prevendo o preço de casas (House Prices)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
     Projeto 4: Modelo de Idendificação de Fraudes
