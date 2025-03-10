@@ -31,7 +31,7 @@ Data Scientist focused on the incessant search for accurate results.
     Análise de Dados e Finanças (Wizard - Idiomas)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
-    Projeto 1: Analisando o engajamento no Instagram
+    Analisando o engajamento no Instagram (Shop 77)
   </a>
 
 ##
