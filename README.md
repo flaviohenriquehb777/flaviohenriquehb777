@@ -22,13 +22,13 @@ Data Scientist focused on the incessant search for accurate results.
     Competição Kaggle: Prevendo o preço de casas (House Prices)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
-    Projeto 4: Modelo de Idendificação de Fraudes
+    Modelo de Idendificação de Fraudes (Credicard - Brasil)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
-    Projeto 3: Modelo Financeiro com apresentação em PPT
+    Modelo Financeiro com apresentação em PPT (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
-    Projeto 2: Modelo de Análise de Dados e Finanças
+    Análise de Dados e Finanças (Wizard - Idiomas)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
     Projeto 1: Analisando o engajamento no Instagram
