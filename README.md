@@ -33,6 +33,9 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
     Analisando o engajamento no Instagram (Shop 77)
   </a>
+- <a href="https://github.com/flaviohenriquehb777/Tradutor_Ingles_Portugues_PyTorch">
+    Tradutor: Inglês/Português com PyTorch
+  </a>
 
 ##
 
