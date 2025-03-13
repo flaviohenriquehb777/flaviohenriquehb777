@@ -46,7 +46,7 @@ Data Scientist focused on the incessant search for accurate results.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)](https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)
   
-# Always learning!
+# Continuous learning!
 
 <div align="center">
 <img src="https://github.com/flaviohenriquehb777/flaviohenriquehb777/assets/109081925/c2838d5d-c9af-4405-a460-74cbadbc1c16.png" width="750px" />
