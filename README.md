@@ -19,7 +19,7 @@ Data Scientist focused on the incessant search for accurate results.
 ### You can take the opportunity to check out some content I created:
 
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
-    Modelo: Sistema de Recomendações (Deep Learning) (Sam's Club - Walmart)
+    Sistema de Recomendações (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
     Competição Kaggle: Prevendo o preço de casas (House Prices)
@@ -28,7 +28,7 @@ Data Scientist focused on the incessant search for accurate results.
     Modelo de Idendificação de Fraudes (Credicard - Brasil)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
-    Modelo Financeiro com apresentação em PPT (Sam's Club - Walmart)
+    Análise Financeira com Apresentação Executiva (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
     Análise de Dados e Finanças (Wizard - Idiomas)
