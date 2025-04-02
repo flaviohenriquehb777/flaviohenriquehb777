@@ -19,6 +19,9 @@ Data Scientist focused on the incessant search for accurate results.
 ### You can take the opportunity to check out some content I created:
 
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
+    Fraud Detection Animation
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
     Sistema de Recomendações (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
