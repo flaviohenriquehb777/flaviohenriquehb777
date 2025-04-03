@@ -18,8 +18,11 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
-- <a href="https://github.com/flaviohenriquehb777/Fraud_Detection_Animation.git">
+- <a href="https://github.com/flaviohenriquehb777/Clustering_Animation_Marketing.git">
     Fraud Detection Animation
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Fraud_Detection_Animation.git">
+    Clustering Animation: Marketing
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
     Sistema de Recomendações (Sam's Club - Walmart)
