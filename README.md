@@ -18,6 +18,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Projeto_Data_Visualization_Animada.git">
+    Data Visualization Animada com Python
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Evolucao_Fronteira_de_Decisao.git">
     Animação da Evolução da Fronteira de Decisão com Deep Learning
   </a>
