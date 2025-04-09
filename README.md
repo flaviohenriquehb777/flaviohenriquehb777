@@ -18,6 +18,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
+    Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Analise_de_Vendas.git">
     Análise de Dados de Vendas com Python (Amor a Cakes)
   </a>
