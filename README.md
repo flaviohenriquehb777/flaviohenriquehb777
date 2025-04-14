@@ -18,6 +18,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Analise_Genatica_3D_Progressiva.git">
+    Análise Genômica Progressiva em 3D
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
     Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
   </a>
