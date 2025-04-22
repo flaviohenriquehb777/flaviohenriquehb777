@@ -18,6 +18,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Projeto_Monitoramento_Modelo_Data_Drift.git">
+    Monitoramento de Modelos - Data Drift Detection
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_CartPole_em_3D.git">
     Projeto CartPole 3D
   </a>
