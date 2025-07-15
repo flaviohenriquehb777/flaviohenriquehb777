@@ -18,10 +18,12 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Visualizacao_de_Dados_Interativa_ou_Data_Storytelling.git">
+    Visualização de Dados Interativa e Data Storytelling
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Clusterizacao_777.git">
     Modelo de Clusterização
   </a>
-
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Monitoramento_Modelo_Data_Drift.git">
     Monitoramento de Modelos - Data Drift Detection
   </a>
