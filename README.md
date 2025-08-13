@@ -28,6 +28,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+- <a href="https://github.com/flaviohenriquehb777/Projeto_Recomendacao_Animacao.git">
+    Projeto Recomendação: Animação
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Visualizacao_de_Dados_Interativa_ou_Data_Storytelling.git">
     Visualização de Dados Interativa e Data Storytelling
   </a>
