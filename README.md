@@ -28,6 +28,26 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
+### Professional Collection: 
+
+- <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
+    Sistema de Recomendações (Sam's Club - Walmart)
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
+    Modelo de Idendificação de Fraudes (Credicard - Brasil)
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
+    Análise Financeira com Apresentação Executiva (Sam's Club - Walmart)
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
+    Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
+  </a>
+- <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
+    Análise de Dados e Finanças (Wizard - Idiomas)
+  </a>
+
+### My Private Collection: 
+
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Recomendacao_Animacao.git">
     Projeto Recomendação: Animação
   </a>
@@ -45,9 +65,6 @@ Data Scientist focused on the incessant search for accurate results.
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Analise_Genatica_3D_Progressiva.git">
     Análise Genômica Progressiva em 3D
-  </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
-    Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Analise_de_Vendas.git">
     Análise de Dados de Vendas com Python (Amor a Cakes)
@@ -67,20 +84,8 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/Fraud_Detection_Animation.git">
     Fraud Detection Animation
   </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
-    Sistema de Recomendações (Sam's Club - Walmart)
-  </a>
 - <a href="https://github.com/flaviohenriquehb777/HousePrices">
     Competição Kaggle: Prevendo o preço de casas (House Prices)
-  </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
-    Modelo de Idendificação de Fraudes (Credicard - Brasil)
-  </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
-    Análise Financeira com Apresentação Executiva (Sam's Club - Walmart)
-  </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
-    Análise de Dados e Finanças (Wizard - Idiomas)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_1_Analisando_o_Engajamento_do_Instagram">
     Analisando o Engajamento no Instagram (Shop 77)
