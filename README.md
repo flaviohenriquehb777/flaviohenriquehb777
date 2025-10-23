@@ -28,7 +28,7 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### You can take the opportunity to check out some content I created:
 
-### Professional Collection: 
+### My Professional Collection: 
 
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
     Sistema de Recomendações (Sam's Club - Walmart)
