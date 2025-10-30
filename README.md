@@ -30,6 +30,8 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### My Professional Collection: 
 
+**Note:** I have authorization to share these projects, provided that the datasets are appropriately generalized.
+
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
     Sistema de Recomendações (Sam's Club - Walmart)
   </a>
