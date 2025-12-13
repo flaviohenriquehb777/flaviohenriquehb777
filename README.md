@@ -32,6 +32,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 **Note:** I have authorization to share these projects, provided that the datasets are appropriately generalized.
 
+- <a href="https://github.com/flaviohenriquehb777/NeuroTranslator_PT_EN.git">
+    NeuroTranslator (FH Data Consulting)
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
     Sistema de Recomendações (Sam's Club - Walmart)
   </a>
