@@ -42,13 +42,13 @@ Data Scientist focused on the incessant search for accurate results.
     Health Insurance (HealthSecure)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_7_Sistema_de_Recomendacao.git">
-    Sistema de Recomendações (Sam's Club - Walmart)
+    Sistema de Recomendação com Arquitetura MLOps - Varejo (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_4_Modelo_de_Identificacao_de_Fraude">
-    Modelo de Idendificação de Fraudes (Credicard - Brasil)
+    Modelo de Detecção de Fraude - Setor Financeiro (Credicard - Brasil)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_3_Financas_com_Apresentacao_Final_em_PPT">
-    Análise Financeira com Apresentação Executiva (Sam's Club - Walmart)
+    Análise Financeira e Dashboard Executivo - Varejo (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
     Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
