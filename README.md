@@ -51,7 +51,7 @@ Data Scientist focused on the incessant search for accurate results.
     Análise Financeira e Dashboard Executivo - Varejo (Sam's Club - Walmart)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Maximizacao_Receita.git">
-    Análise de Dados de Vendas para Otimização de Receita (Amor a Cakes)
+    Otimização de Receita - E-commerce (Amor a Cakes)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_2_Mini_Projeto_de_Analise_de_Dados_Financas">
     Análise de Dados e Finanças (Wizard - Idiomas)
