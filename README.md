@@ -35,6 +35,9 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/NeuroTranslator_PT_EN.git">
     NeuroTranslator (FH Data Consulting)
   </a>
+- <a href="https://github.com/flaviohenriquehb777/Customer_Sucess_Clustering.git">
+    Customer Success: Segmentação de Clientes (Insight Academy)
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Tourism_Company_Delinquency.git">
     Tourism Company Delinquency (Viasul Viagens e Turismo LTDA)
   </a>
