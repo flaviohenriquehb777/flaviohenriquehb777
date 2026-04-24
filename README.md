@@ -80,9 +80,6 @@ Data Scientist focused on the incessant search for accurate results.
 - <a href="https://github.com/flaviohenriquehb777/Analise_Genatica_3D_Progressiva.git">
     Análise Genômica Progressiva em 3D
   </a>
-- <a href="https://github.com/flaviohenriquehb777/Projeto_Analise_de_Vendas.git">
-    Análise de Dados de Vendas com Python (Amor a Cakes)
-  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Animacao_Log_Loss.git">
     Visualização da Otimização da Log Loss com Animação
   </a>
