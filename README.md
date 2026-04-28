@@ -69,7 +69,7 @@ Data Scientist focused on the incessant search for accurate results.
     Visualização de Dados Interativa e Data Storytelling
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Clusterizacao_777.git">
-    Modelo de Clusterização
+    Amazon Product Clustering
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Monitoramento_Modelo_Data_Drift.git">
     Monitoramento de Modelos - Data Drift Detection
