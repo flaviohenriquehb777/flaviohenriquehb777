@@ -62,6 +62,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 ### My Private Collection: 
 
+- <a href="https://github.com/flaviohenriquehb777/Retail_Store_Sales_Data.git">
+    Retail Store Sales Data: Recuperação de Margem
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Projeto_Recomendacao_Animacao.git">
     Projeto Recomendação: Animação
   </a>
