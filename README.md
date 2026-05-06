@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi, I'm Flávio Henrique <br>(Data Scientist | Machine Learning Specialist)! </h1>
 
 ## About me:
