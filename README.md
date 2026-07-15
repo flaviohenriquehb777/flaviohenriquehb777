@@ -31,6 +31,9 @@ Data Scientist focused on the incessant search for accurate results.
 
 **Note:** I have authorization to share these projects, provided that the datasets are appropriately generalized.
 
+- <a href="https://github.com/flaviohenriquehb777/Gym-AI-Agents.git">
+    Gym AI Agents
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/NeuroTranslator_PT_EN.git">
     NeuroTranslator (FH Data Consulting)
   </a>
