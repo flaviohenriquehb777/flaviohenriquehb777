@@ -35,7 +35,7 @@ Data Scientist focused on the incessant search for accurate results.
     Gym AI Agents
   </a>
 - <a href="https://github.com/flaviohenriquehb777/NeuroTranslator_PT_EN.git">
-    NeuroTranslator (FH Data Consulting)
+    NeuroTranslator (FH Data)
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Customer_Sucess_Clustering.git">
     Customer Success: Segmentação de Clientes (Insight Academy)
