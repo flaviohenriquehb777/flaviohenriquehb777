@@ -31,8 +31,11 @@ Data Scientist focused on the incessant search for accurate results.
 
 **Note:** I have authorization to share these projects, provided that the datasets are appropriately generalized.
 
+- <a href="https://github.com/flaviohenriquehb777/Retail-Store-Clustering.git">
+    Retail Store Clustering: Aurora Varejo
+  </a>
 - <a href="https://github.com/flaviohenriquehb777/Consumer-Credit-Risk.git">
-    Consumer Credit Risk: Aurora
+    Consumer Credit Risk: Aurora Crédito Digital
   </a>
 - <a href="https://github.com/flaviohenriquehb777/Gym-AI-Agents.git">
     Gym AI Agents
