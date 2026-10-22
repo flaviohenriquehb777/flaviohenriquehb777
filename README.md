@@ -1,5 +1,9 @@
 <h1 align="center"> Hi, I'm Flávio Henrique <br>(Data Scientist | Machine Learning Specialist)! </h1>
 
+<div align="center">
+<img src="./banner-data-scientist.png" width="100%" alt="Flavio Henrique - Data Scientist | Machine Learning | AI | Analytics | MLOps">
+</div>
+
 ## About me:
 
 Data Scientist focused on the incessant search for accurate results.
@@ -129,10 +133,6 @@ Data Scientist focused on the incessant search for accurate results.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)](https://www.linkedin.com/in/flávio-henrique-barbosa-38465938/)
   
 # Continuous learning!
-
-<div align="center">
-<img src="https://github.com/flaviohenriquehb777/flaviohenriquehb777/assets/109081925/c2838d5d-c9af-4405-a460-74cbadbc1c16.png" width="750px" />
-</div>
 
 <div align="center" width="48%" >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flaviohenriquehb777&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
